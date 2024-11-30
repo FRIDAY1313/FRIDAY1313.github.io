@@ -1,3 +1,3 @@
-1. friday
-1. pluem
-1. thanapat
+1. Thanapat
+1. Uraiwong
+1. 6530250093

@@ -4,12 +4,14 @@ Threat modeling
 
 
 - Chat GPT
-  - Threat modeling is a structured approach to identify, evaluate, and mitigate security risks to systems, applications, or processes. It helps organizations understand potential threats, assess vulnerabilities, and prioritize defenses based on the risks to their assets.
+  - “การสร้างแบบจำลองภัยคุกคาม” (Threat modeling)
+เป็นกระบวนการที่นักพัฒนาสามารถเข้าใจภัยคุกคามด้านความปลอดภัยต่อระบบ ระบุความเสี่ยงที่เกิดจากภัยคุกคามเหล่านั้น และกำหนดวิธีการลดความเสี่ยงอย่างเหมาะสม
 
 - Gemini
-  - Threat modeling is a structured approach to identifying, analyzing, and mitigating potential security risks within a system or application. It involves creating a model of the system, identifying potential threats, and then evaluating the likelihood and impact of those threats. This helps organizations prioritize security efforts and allocate resources effectively.
+  - การสร้างแบบจำลองภัยคุกคามเป็นขั้นตอนสำคัญในการพัฒนาระบบที่ปลอดภัยและเชื่อถือได้ โดยช่วยให้นักพัฒนาสามารถระบุและแก้ไขจุดอ่อนของระบบได้ก่อนที่ผู้โจมตีจะใช้ประโยชน์จากจุดอ่อนเหล่านั้น
 
-
+- [OWASP](https://owasp.org/www-community/Threat_Modeling)
+  - Threat modeling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value.A threat model is a structured representation of all the information that affects the security of an application. In essence, it is a view of the application and its environment through the lens of security.
 
 
 

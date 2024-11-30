@@ -1,7 +1,8 @@
 # FRIDAY1313.github.io
 
-－　ｔｈａｎａｐａｔ
-    － ｐｌｕｅｍ
+- thanapat
+   - pluem 
+  
 
 ![alt text](http/)
 

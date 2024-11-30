@@ -10,7 +10,7 @@ Threat  modeling
 - __Gemini__
   - การสร้างแบบจำลองภัยคุกคามเป็นขั้นตอนสำคัญในการพัฒนาระบบที่ปลอดภัยและเชื่อถือได้ โดยช่วยให้นักพัฒนาสามารถระบุและแก้ไขจุดอ่อนของระบบได้ก่อนที่ผู้โจมตีจะใช้ประโยชน์จากจุดอ่อนเหล่านั้น
 
-- __2nd Source[OWASP](https://owasp.org/www-community/Threat_Modeling)__
+- __[OWASP](https://owasp.org/www-community/Threat_Modeling)__
   - Threat modeling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value.A threat model is a structured representation of all the information that affects the security of an application. In essence, it is a view of the application and its environment through the lens of security.
  
 - __Chat GPT__

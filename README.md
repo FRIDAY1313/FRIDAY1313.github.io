@@ -8,6 +8,6 @@
 
 [AUTHENTCATION](authentication)
 
-[Threat modeling](threat modeling)
+[Threat modeling](threatmodeling)
 
 

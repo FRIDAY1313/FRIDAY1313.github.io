@@ -4,7 +4,7 @@
    - pluem 
   
 
-![alt text](IMG_6082.jpeg)
+![alt text](Profliepluem.jpg)
 
 [AUTHENTICATION](authentication)
 

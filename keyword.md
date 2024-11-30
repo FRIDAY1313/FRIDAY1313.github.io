@@ -1,4 +1,4 @@
-Threat modeling 
+Threat  modeling 
 - __[ISC2](https://www.isc2.org/certifications/cissp/cissp-student-glossary)__
   - A process by which developers can understand security threats to a system, determine risks from those threats, and establish appropriate mitigations.
 

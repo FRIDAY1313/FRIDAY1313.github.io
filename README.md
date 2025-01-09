@@ -1,20 +1,7 @@
 # FRIDAY1313.github.io
 
 - thanapat
-   - pluem 
-  
-
-![alt text](image/Profliepluem.jpg)
-
-# Activities 
-
-[AUTHENTCATION](authentication)
-
-[Threat modeling](threat-modeling)
-
-[Christmas E Card](christmascard.md)
-
-[Data Quality(Validity)](validity.md)
+   - pluem
 
 # Projects
 
@@ -31,5 +18,19 @@
 [System analyst](https://drive.google.com/drive/folders/1HvUDQeXIXyMUSZzo1Y__ljN542jZzv3Q?usp=sharing)
 
 [Trailhead](https://www.salesforce.com/trailblazer/qetfdtgtdr44ungxch)
+
+
+![alt text](image/Profliepluem.jpg)
+
+# Activities 
+
+[AUTHENTCATION](authentication)
+
+[Threat modeling](threat-modeling)
+
+[Christmas E Card](christmascard.md)
+
+[Data Quality(Validity)](validity.md)
+
 
 

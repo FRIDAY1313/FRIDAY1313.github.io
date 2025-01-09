@@ -3,7 +3,7 @@
 - thanapat
    - pluem
 
-# Projects
+# MyProjects
 
 [Tableau](https://public.tableau.com/app/profile/thanapat.uraiwong/viz/DLC_17289995934840/Dashboard1)
 

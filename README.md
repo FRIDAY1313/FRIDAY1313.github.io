@@ -1,6 +1,6 @@
 # FRIDAY1313.github.io
 
-- thanapat
+- Thanapat U-raiwong
    - pluem
 
 # MyProjects

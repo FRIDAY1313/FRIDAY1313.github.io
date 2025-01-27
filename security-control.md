@@ -1,6 +1,6 @@
 # Security-Control
 
-<center><h1>กลอนประตูดิจิทัล( Digital Door Lock)</h1></center> 
+# กลอนประตูดิจิทัล( Digital Door Lock)
 
 
 - **Location** : Kensington Condo

@@ -3,7 +3,7 @@
 # กลอนประตูดิจิทัล( Digital Door Lock)
 
 
-- **Location** : Kensington Condo
+- **Location** : Condo
 - **Control Function** : Preventative
 - **Type of SecurityControl** : Physical Control
 

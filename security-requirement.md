@@ -25,6 +25,6 @@
  
 **Members**
 
-[6530250093 ธนพัฒน์ อุไรวงษ์](https://friday1313.github.io)
+[6530250093 ธนพัฒน์ อุไรวงษ์](https://friday1313.github.io/security-requirements)
 
-[6530200835 สรสิช ปัญญางค์](https://bossmahob.github.io)
+[6530200835 สรสิช ปัญญางค์](https://bossmahob.github.io/security-requirements)

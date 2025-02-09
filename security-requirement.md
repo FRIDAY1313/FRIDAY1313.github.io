@@ -1,16 +1,16 @@
 # 5.1.3 Input Validation
 
-**Details**
+**[Details](https://owasp.org/www-project-application-security-verification-standard)**
 - Verify that all input (HTML form fields, REST requests, URL parameters, HTTPheaders, cookies, batch files, RSS feeds, etc) is validated using positivevalidation (allow lists). 
 
 
 
- **Chat GPT**
+ **[Chat GPT](chatgpt.com)**
 - ตรวจสอบให้แน่ใจว่าทุกการป้อนข้อมูล (ฟอร์ม HTML, คำขอ REST, พารามิเตอร์ URL, หัวข้อ HTTP, คุกกี้, ไฟล์ชุดคำสั่ง, ฟีด RSS, ฯลฯ) ได้รับการตรวจสอบโดยใช้การตรวจสอบเชิงบวก (allow lists) 
 
 
 
-**Gemini**
+**[Gemini](gemini.google.com)**
 - การตรวจสอบว่าข้อมูลป้อนเข้าทั้งหมด (ช่องแบบฟอร์ม HTML, คำขอ REST, พารามิเตอร์ URL, ส่วนหัว HTTP, คุกกี้, ไฟล์แบทช์, ฟีด RSS ฯลฯ) ได้รับการตรวจสอบโดยใช้การตรวจสอบเชิงบวก (รายการที่อนุญาต)
 
 
